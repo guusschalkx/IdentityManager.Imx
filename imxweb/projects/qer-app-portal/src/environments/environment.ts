@@ -30,7 +30,7 @@
 
 export const environment = {
   production: false,
-  clientUrl: 'http://localhost:8182',
+  clientUrl: 'https://sqch1iam04v.sicpa-qa.ads/ApiServer-AngularWebPortal',
   appName: 'qer-app-portal',
   appVersion: '1.0.0'
 };
